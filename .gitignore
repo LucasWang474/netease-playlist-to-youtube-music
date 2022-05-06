@@ -1,0 +1,3 @@
+node_modules
+**/yt_oauth_creds.json
+.idea
