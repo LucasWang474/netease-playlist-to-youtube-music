@@ -15,11 +15,13 @@
 - 在设置里导出歌单，得到 `listen1_backup.json` 文件
 
 ### Node.js
+- [Node.js](https://nodejs.org/en/)
+
 
 ## Usage
 
 ```bash
-# 首先确保你已经将 listen1_backup.json 文件放到了 src/ 文件下
+# 首先确保你已经将你自己的 listen1_backup.json 文件放到了 src/ 文件下
 
 # 从项目根目录开始
 npm install
